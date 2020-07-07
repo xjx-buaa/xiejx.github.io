@@ -1,4 +1,4 @@
-## Welcome to Jiaxin Xie's Homepages
+## Welcome to my Homepages
 
 You can use the [editor on GitHub](https://github.com/xjx-buaa/xiejx.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
